@@ -21,7 +21,7 @@ The dataset used in this project contains Spotify user reviews for 2022. You can
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10.16
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`
 - Jupyter Notebook or Google Colab for execution
 
